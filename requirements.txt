@@ -26,7 +26,7 @@ multidict==6.0.5
 networkx==3.1
 numpy==1.24.4
 onegan @ git+https://github.com/leVirve/OneGan@e0d5f387c957fbf599919078d8c6277740015336
-opencv-python
+opencv-python==4.9.0.80
 packaging==23.2
 Pillow==9.5.0
 protobuf==4.25.2

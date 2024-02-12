@@ -185,4 +185,4 @@ def hex_to_rgb(hex_color):
 
 
 if __name__ == "__main__":
-    app.run(port=9000, debug=True)
+    app.run(port=80, debug=True)
